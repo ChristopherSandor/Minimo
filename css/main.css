@@ -1,0 +1,83 @@
+.navbarcustomfont {
+  font-family: "Inconsolata", monospace;
+}
+.navbar-default {
+  margin: 0 !important;
+}
+.content {
+  margin-top: -20px;
+}
+#fontsizetitle {
+  font-size: 25px;
+}
+.frontphoto {
+  height: 100%;
+  width: 100%;
+}
+.sub {
+  font-family: "Inconsolata", monospace;
+  font-size: 20px;
+  color: grey;
+}
+.head {
+  font-family: "Inconsolata", monospace;
+  font-size: 50px;
+  color: black;
+}
+.con {
+  font-family: "Ubuntu", sans-serif;
+  font-size: 20px;
+  color: black;
+}
+.secondphoto {
+  height: 95%;
+  width: 95%;
+}
+.leftphoto {
+  float: left;
+}
+.rightphoto {
+  float: right;
+}
+.padding {
+  padding-left: 40px;
+}
+.head2 {
+  font-family: "Inconsolata", monospace;
+  font-size: 35px;
+  color: black;
+}
+.middlecenter {
+  text-align: center;
+}
+.newsletter {
+  font-family: "Inconsolata", monospace;
+  font-size: 3.5vh;
+  color: black;
+}
+.textbox {
+  width: 100%;
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  outline: none;
+  background-color: transparent;
+}
+
+.customrow {
+  background-color: lightgrey;
+  height: 75px;
+}
+
+.btitle {
+  font-family: "Inconsolata", monospace;
+  font-size: 15px;
+}
+.bphoto {
+  width: 7px;
+  height: 12px;
+}
+.bphoto2 {
+  width: 12px;
+  height: 12px;
+}
